@@ -1,0 +1,82 @@
+N-cycle in beech and calcerous soils (Andy):
+
+Overall functioning of N cycle:
+
+#### NO3- consuming processes:
+	Microbial immobilization
+		NO3- uptake leads to reduced plant availability
+		N is transformed into organic compounds and eventually mineralizes when the MO die
+	dissimilatory NO3- reduction to NH4+ (NO3- --> NO2- --> NH4+ ; anaerobic)
+	Denitrification (stops at N2 / N2O)
+
+
+#### Denitrification
+	NO3- or NO2- --> N2 or N2O
+	N is used as electron acceptor [anaerobic]
+	
+
+#### Nitrification
+	NH4+ --> NO2- --> NO3-
+		 oxidizing bacteria convert NH4+ to Nitrite and then to Nitrate
+	Controlled by
+		balance of inorganic N assimilation
+		gross nitrification
+
+	## Net- VS Gross Nitrification:
+		Net
+			actual increase of Nitrate concentration in the soil
+			Takes into account plant uptake, denitrification, MO immobilization/ assimilation
+		Gross
+			Total NO2- and NO3- production
+			total acitivity of nitrifying bacteria
+
+	Nitrification can promote soil acidification
+	Higher nitrification != N- loss (NO3- leaching / N-gas production)
+		plant uptake, MO / abiotic Immobilization can compensate therefore
+
+#### N2O
+	leaching during
+		NO3- production (Gross nitrification)
+		NO3- reduction (denitrification / red. to NH4+)
+	Controlled by
+		Forest floor water content
+		Temperature
+
+#### C:N ratio
+	## Treshold of 25: below more nitrification takes place, the N storage capacity is reduced and NO3- leaching is higher
+	Light fraction SOM has high C:N but can be lost after soil disturbances and vegetation changes
+	favours NH4+ uptake, as heterotrophs are favoured, while autotrophic nitrifiers decrease
+	favours NO3- assimilation, thus consuming if after it is produced by gross nitrification
+	Atmospheric N- Deposition can cause an imbalance of C:N
+
+#### Atospheric N Deposition
+	can decrease C:N
+	can alter even undisturbed Forest ecosystems
+
+#### Undisturbed Forest Ecosystems
+	NH4+ and NO3- prodcution is counterbalanced by MO immobilization and plant uptake --> low losses
+	Cycle can be altered by atmospheric deposition
+
+#### Why care about N losses in forests?
+	Nutrient stock is affected
+	The GW and Streamwater quality suffers from it (NO3- leaching)
+	Gasses react in the atosphere and get transported in ecosystems
+	N2O is a radiatively active (absorbs and emits infrared radiation in the earths atmosphere)
+	
+	
+___________________________________________________________________________________________________________________________________________________________________________________
+################################    Nitrogen turnover and N2O production in the forest floor of beech stands as influenced by forest management    ################################
+
+Thinning was done at N and S exposure.
+
+Effects of Thinning depend on:
+	timespan of the thinning
+	Microclimate
+	Soil properties
+
+#### Outcomes
+	1) increased nitrification rate and NO3- concentration when thinning takes place
+	2) Only on the North sites (-> Microsite dependency: N sites had lower C:N)
+	3) Due to a lower C:N (thinning --> lower C:N)
+
+
