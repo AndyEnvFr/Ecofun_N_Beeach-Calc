@@ -2,6 +2,39 @@ N-cycle in beech and calcerous soils (Andy):
 
 Overall functioning of N cycle:
 
+#### Beech forests
+	1/3 of EUropean BF is on calcareous soils that are highly susceptible to water deprivation
+	Mechanisms of sensitivity of beech trees to climate change (less mm and higher T°)
+		1)tree physiological limitation
+		2)nutritional limitations due to lower N cycling turnover (specifically due to lowered bioavailable N)
+			apply foremost on seedlings with restricted root systems and on calcareous soils, with low availability of N
+	Trees compete with MO for organic and mineral N in a wide range of ecosystems with or without mycorrhizal help
+		1) uptake of monomeric organic compounds (Amino Acids (AA))
+			MO ammonification and MO uptake of dissolved organic N (DON) is reduced
+		2) uptake of NH4+
+			MO nitrification and MO immobilization is reduced
+		3) uptake of NO3-
+			MO utilization of NO3- is hindered
+	Trees drive N cycling because/ with their organic matter decomposition and by root exsudates directly to the MO
+	Adult beech growing on Rendzic Leptosol : decreased maximum NO3- uptake capacity and basal stem area with declining soil water availability 
+		and has no opportunities to access deeper soil N pools in this shallow soil type.
+
+#### Calcareous soils
+	Rendzic Leptosols: Bioavailable N released by MO is often the limiting factor
+		shallow profile
+		high gravel content
+		clayey texture
+		low water and nutrient retention capacity
+		Soil moisture is the major environmental driver of in situ nitrification in Rendzic Leptosols with maximum nitrification at 65% of maximal water holding capacity
+
+#### Soil MO - Tree interaction
+	many studies focused only on N cycle in soils without plants, with N cycle in Plants without MO
+	Some studies focused on both, however, only researching the 15N recovery rates rather then the actual N turnover rates
+		The N competition rather must be quantified in a process oriented way: determine the N turnover at the same time in plants and soils
+		
+
+#### N dynamics can adjust in an ecosystem to conserve the available N via low inorganic N production or a combination of high inorganic N production and consumption
+
 #### NO3- consuming processes:
 	Microbial immobilization
 		NO3- uptake leads to reduced plant availability
@@ -48,10 +81,18 @@ Overall functioning of N cycle:
 	favours NH4+ uptake, as heterotrophs are favoured, while autotrophic nitrifiers decrease
 	favours NO3- assimilation, thus consuming if after it is produced by gross nitrification
 	Atmospheric N- Deposition can cause an imbalance of C:N
+	## Treshold Deposition rates
+		< 10 kg / ha * y : no leaching
+		10 -25 kg / ha * y : some leaching
+		> 25 kg / ha * y : high leaching
+	decomposition of C and N was 1:1 in different deuropean beech forests: first by leahcing of soluble compounds than by soil fauna fragmentation
 
 #### Atospheric N Deposition
 	can decrease C:N
 	can alter even undisturbed Forest ecosystems
+	can increase mineralization and Nitrification processes (in maple vs beech this was only the case in maple)
+	
+	The canopy is able to take up N and can also not take up N
 
 #### Undisturbed Forest Ecosystems
 	NH4+ and NO3- prodcution is counterbalanced by MO immobilization and plant uptake --> low losses
@@ -62,9 +103,65 @@ Overall functioning of N cycle:
 	The GW and Streamwater quality suffers from it (NO3- leaching)
 	Gasses react in the atosphere and get transported in ecosystems
 	N2O is a radiatively active (absorbs and emits infrared radiation in the earths atmosphere)
+
+#### N-Cycle in temperate forests
+	is limited by N mineralization and Nitrification
+
+#### fertilizer studies
+	fert. can lead to artifacts: first the nitrification rates are increased, later they become less than in the control
+		####   priming   #### of the soils: increased N induced increased mineralization rates (MO acitivity) and more C availability for MO
+			MO can immobilize N
+	
+#### Tree adaptation to N
+	to low N:
+		N is translocated from old leaves to the trunk during senescence, stored over winter and translocated back into new leaves --> #### Nitrogen Use Efficiency ####
+			altough bark yields little mass compared to the wood, the N concentration is higher in the bark and total amounts can be significant
+		this is because for most decoduous trees the N requirements cannot be met solely by uptakes from soil
+	some requirements can be met by NH4+ and NO3- wet depositions
+
+#### Ratios in N Cycle:
+	17 kg / ha * y --> 5 x higher nitrification than 10 kg / ha * y
+	mean  deposition in EU beech forests is 4.1 kg/ ha * y
+
+#### N Saturation:	__“nitrogen saturation” refers to the exceeded N assimilation capacity of forested ecosystems and enhanced nitrification is a symbol of saturation__
+	can lead to P and K deficiencies
+	Increase mineralization of SOM
+		increased N uptake
+		increased turnover rate of OM
+	Reduce soil microbial acitivity, thus forest productivity
+	High nitrate concentration result in cation leaching (primarily Ca and Al
+	Mature forests are more prone to saturation than aggrading forests, as biomass accumulation is low
+	Sat. is not reached, if there is a difference between requirement and uptake
+		this shows deficiency
+		there is retention and minimal leaching losses
+	When N:P ratio in foliage does not change significantly trough the years, saturation might not be reached
+		(Authors: sat. is controlled by plant uptake rather than  by soil microbial uptake so plant processes would be the first to change)
 	
 	
-___________________________________________________________________________________________________________________________________________________________________________________
+	
+#### Precipitation / snow
+	Litterfall production (Greek montainous beech forest study) increased in wetter years and so was N uptake
+	High NO3- concentration during early snow melts, as mineralizes before leaf flush and uptake
+	
+	High rainfall can dilute N concentrations
+
+#### Dissolved organic N
+	Especially for stream water organic N can make up to 60% of total dissolved N
+	Ammonium is retained more easily than nitrate trough abiotic fixation and assimilation by MO
+
+#### Preferences of species
+	European beech takes up more NH4+ than NO3-
+	European beech takes up more NO3- than NH4+ (Dannemann 2016)
+
+#### pH: see China study
+
+#### Plant uptake
+	Mineral VS Organic in trees
+		trees can also take up organic N (This hypothesis is certainly favored by the growth of extramatrical ectomycorrhizal hyphae in the decaying leaves
+	Is dirven by plant health (e.g., drought stress reduces N uptake)
+	Is highest at the onset of the growin season
+	
+___________________________________________________________________________________________________________________________________________
 ################################    Nitrogen turnover and N2O production in the forest floor of beech stands as influenced by forest management    ################################
 
 Thinning was done at N and S exposure.
@@ -78,5 +175,160 @@ Effects of Thinning depend on:
 	1) increased nitrification rate and NO3- concentration when thinning takes place
 	2) Only on the North sites (-> Microsite dependency: N sites had lower C:N)
 	3) Due to a lower C:N (thinning --> lower C:N)
+
+___________________________________________________________________________________________________________________________________________________________________________________
+################################    SOIL NITROGEN TRANSFORMATIONS IN BEECH AND MAPLE STANDS ALONG A NITROGEN DEPOSITION GRADIENT    ################################
+
+N- deposition increased Mineralization and nitrification rates only in maple plots in organic horizons (for mineral soils the effect was weaker)
+	-> the two species repond differently to N accumulation from atmospheric deposition
+	-> forest species composition: species alter in decomposability of leaves because of different Lignin : N ratio in the leaves
+		Species can respond differently in two ways:
+			1) Soils accumulate N at different rates
+			2) similar accumulation but different response (supported by results)
+				for beech the Lignin : N ratio is high
+					decomposability is low and N availability decreases for plants and MO
+					reduced gross mineralzation rates
+					higher C availability enhances immobilization of N (-> less leaching)
+					(Allelochemical inhibition of N)
+further hypothesis:
+N deposition increases the patchiness of N Cycling
+	higher deposition -> higher min. and nitr. only in maple
+	ecosystem processes that repospond to slight shifts in N balance (seedling/ understory plant growth) may become more spatially heterogenous in mixed  species forests under high depositions
+
+
+___________________________________________________________________________________________________________________________________________________________________________________
+####################################################    Nitrogen cycling in a mature mountainous beech forest    #########################################################
+Monitoring study
+see 'overall functions of N cycle'
+
+
+___________________________________________________________________________________________________________________________________________________________________________________
+##############################    Low nitrate retention capacity in calcareous soil under woodland in the karst region of southwestern China   #####################################
+
+#### Gross mineralization rate of organic N to NH4+ in carst soils was much lower than in red soils
+
+####Total gross nitrification rate was higher in calcareous soil
+	NO3- immobilization accounted for 2.9% in calcareous soils and 153% in red soils of the total nitrification
+	Calcareous soils have low biological N retention and high losses
+
+#### calcerous soils:
+	as they have high share of Ca and Mg they have high pH
+		oxidation rate of NH4+ to NO3- is boosted
+		High pH can significantly stimulate the number of nitrifying bacteria (increase NH4+ -> NO3-)
+		However high pH can degrade fungal growth
+			(fungus can effectively degrade more immob. org. N and assimilate more NO3-
+
+
+#### Hypothesis: (1) decreasing inorganic N supply capacity and (2) increasing NO3- consumption conserve N in this location
+	2) tunred our wrong: few NO3- can be immobilized
+		however the biological inorganic N supply capacity (including Mineralization of organic N and Oxidation of recalc. N to NO3-) was significantly decreased in calc. soils
+			this can lower the total inorganic N inout and the available N losses. (Hyp. (1) confirmed)
+
+#### red soils
+	dominated by NH4+ (high mineralization of organic N to NH4+)
+	low oxidation of NH4+ to NO3-
+	high immobilization of NO3-
+
+#### calcareous soils
+	all the NH4+ was consumed
+	only parts of NO3- were consumed (by plants or lost trough runoff)
+		because more NH4+ was oxidized to NO3-
+		because less immobilization
+	
+
+Morg = mineralization of organic N to NH4+
+INO3 = immobilization of NO3- to recalcitrant organic N
+
+
+
+
+___________________________________________________________________________________________________________________________________________________________________________________
+############################################    Fate of nitrogen released from 15N-labeled litter in European beech forests    ###################################################
+
+Introduction
+	While litter N was released, exogenous N from the surrounding soil was incorporated into the decomposing litter
+		by fungi
+		and bacteria 
+		and troughfall N
+	after only 6 months the litter N was incorported into the tree and further partitioned
+	after 3 years almost all litter N accumulated in the topsoil and only 2.5% was detected in the trees
+	However, it is unknown how different soil types and growth conditions affect this process
+
+#### outcomes:
+	the input of exogenous N (30% of fungal provenience) exceeded the loss of litter N for 2 years, then a net loss of N in litter was observed
+	also here it took 6 months for N uptake
+	As there is no uptake peak, the different N fractions in the litter participated equally in tree uptake
+	Trees are not a major sink of N
+		--> decomposition of litter plays little role in forest N nutrition
+			However this sink strenght is the same for deposited or fertilized N
+				However, deposited N seems more available for trees
+					Maybe, because of different fluxes and storage amount into the soil organic N pool of depositioned compared to litter N
+	Litter released N --> organic N in topsoil --> diluted into the large organic N pool
+	After 3 years almost all litter N was in the topsoil (0-2 cm) and a small proportion in the deep soil (2-30cm), hence became part of soil organic N pool
+		high earthworm activity can explain increased N accumulation in deep soil layers
+		an alternative, however less likely explanation is tranpsortation trough runoff
+	litter layer can act as buffer at low deposition rates, whereas with increasing deposition, N was lost from N-saturated forests mainly by leaching
+	N release is closely correlated with litter mass loss
+	
+#### unknown:
+	the litter released N dynamics in the soil and the fluxes between the different soil compartments remain uncertain.
+		(e.g. the size of MO-biomass varied trough sites and may affect the N fluxes)
+
+
+
+___________________________________________________________________________________________________________________________________________________________________________________
+############################################    Climate Change Impairs Nitrogen Cycling in European Beech Forests    #############################################################
+
+####outcomes:
+
+The statistical species range distribution modelling indicated a dramatic biome shift of European beech on calcareous soils, i.e., a reduction of almost 80% of the realized niche of beech in the year 2080
+	however such predictions can neglect the adaptive capacities of tree species
+The in situ CC revealed a lower growth on the SW exposure in the past 80 years of tree growth
+
+#### N Cycle
+	high rates of microbial mineralization-immobilisation turnover
+	low soil inorganic N concentrations
+	Microbial N turnover largely controlled soil inorganic N availability
+	Glutamine uptake was either not significant or the C was metabolized already in the mycorrhizal mantle (as 15N but not 13C was present in trees)
+	On SW the AOB community was reduced, so was the gross nitrification (5x), soil NO3- concentrations and tree NO3- uptake
+		AOB community depend on ammonia oxidation without metabolic alternatives
+	Other gen study: reduction of the transcripts of ammonia oxidizing archaea in the climate change treatment
+	correlation between reduced gene copies of AOB and AOB abundance & nitrification suggests that CC triggers mechanisms of impaired nitrification activity
+		NO3- availability declines
+		seedling N uptake declines
+	Ammonification and NH4+ levels were only marginally reduced in the CC treatment (unaltered mineralization rates)
+	reduction of gross NO3- supply at SW in June equals to 2 kg N ha-1 day-1
+		and thus has the potential to affect the N balance of the entire forest stand with its estimated N demand of roughly 100 kg N ha-1 growing season-1
+	this statistical modelling approach is not based on physiology or biogeochemistry (on five bioclimatic variables entering the model including: yearly sum of degree days above 5°C, iso-thermality, a yearly drought index, sum of precipitation in the warmest quarter of the year and the precipitation of the most humid month)
+
+#### limitation of the model
+	regional differences of N availability and their impact on beech seedlings are not considered
+		tackle this problem by using N limitation such as atmospheric N deposition, soil C:N ratio
+			So that species distribution models should enhance their prediction skills
+			so far the models focus on water and light as determinants of stand development and species competition: also N should be included
+	such biogeochemical models can complement the dynamic species distribution models and better predict CC effects, taking into account N availability
+		therefore such data is needed for all/ more forests
+		
+
+
+
+
+
+
+
+
+
+
+--------- QUESTIONs -----------
+“(1) Trees may take up monomeric organic compounds such as amino acids thus limiting this substrate for microbial uptake of dissolved organic nitrogen (DON) and microbial ammonification. (2) Trees may take up ammonium (NH4+) thus reducing substrate availability for autotrophic nitrification and microbial immobilisation. (3) Trees may take up nitrate (NO3-) thus limiting microbial NO3- utilization [5,18,19–22].” ([Dannenmann et al., 2016, p. 2](zotero://select/library/items/52MCMPP5)) ([pdf](zotero://open-pdf/library/items/AYVCZG7G?page=2&annotation=QYVH9AAI))
+
+	is it only immobilization when speaking about NH4+ ??? why dont say
+		Trees may take up nitrate (NO3-) thus limiting microbial NO3- IMMOBILIZATION [5,18,19–22]
+		(1) Trees take up monomeric organic compounds thus limiting this substrate for microbial IMMOBILIZATION and microbial ammonification.
+
+For the projection under future conditions, we used output from the global circulation model HADCM3 driven by the SRES scenario A2 [38] until the year 2080, which was calibrated and statistically downscaled to 30-arc-second tiles.
+
+	what does it mean?
+
 
 
