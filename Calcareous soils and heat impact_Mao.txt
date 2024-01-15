@@ -1,0 +1,34 @@
+N-cycle in beech and calcerous soils  (Mao)
+-Characterization of calcareous soils and the effects of extreme heat as well as drought
+
+Calcareous soils (compared to other soils) :
+1. Literature: Acid and calcareous soils affect nitrogen nutrition and organic nitrogen uptake by beech seedlings (Fagus sylvatica L.) under drought, and their ectomycorrhizal community structure
+    https://doi.org/10.1007/s11104-016-2956-4
+    Methods: Determine Tree biomass, root tip mycorrhizal colonization and community structure, root tip mortality, leaf area, photosynthesis, nitrogen concentrations, NUE and short-term 15N uptake from glutamine in five different soil types
+    
+   Related conclusion: Beech in calcareous has higher root mortality than in other soil types, and organic nitrogen uptake decreases more due to drought in calcareous soils than in acid soils
+    (#My bad, didn't see that Tim read the same article as well :))
+
+2. Microbial nitrogen turnover in soils under different types of natural forest
+    https://doi.org/10.1016/j.foreco.2003.07.014
+    Related conclusion:  N cycling was tight in acid beech forests where microbial activity was limited by low soil pH. Indigenous pine forests on calcareous bedrock showed high microbial N storage（#not strict beech in calcareous soils bu may help）.
+                                      Variability in N2O production was strongly related to the soil moisture content (#related to the drought)
+
+Impact of heat/climate/drought
+1. Literature: Climate and forest management influence nitrogen balance of European beech forests: microbial N transformations and inorganic N net uptake capacity of mycorrhizal roots
+    https://doi.org/10.1007/s10342-005-0055-9
+    Related conclusion: Beech under warm–dry conditions: impaired N acquisition, higher ammonification and nitrification, lower denitrification rates and nitrate uptake capacity of trees  
+
+2. Literature: Nitrogen balance in forest soils: nutritional limitation of plants under climate change stresses
+                     (#A review summarizing the present understanding of ecosystem N cycling in N-limited forests and its interaction with extreme climate events, such as heat, drought and flooding,
+                      with some potentially contradictory points)
+    https://doi.org/10.1111/j.1438-8677.2009.00241.x
+    Related conclusion: 
+    Heat          microbial release/consumption of N      increased N mineralization → increased inorganic N availability net nitrification decreased
+                      N uptake                                                 increase in transporter activity in plants, increase in nitrate uptake in relative proportion to ammonium
+    Drought    microbial release/consumption of N      decreased soil microbial activity
+                                                                                      increased DON availability due to dieback of microbial biomass → increased N available for plant uptake
+                                                                                      inhibition of gross nitrification (to be inhibited at very low soil moisture levels, to increase with soil moisture to an optimum, and then to decline as the soil becomes saturated)
+                      N uptake                                                 decreased nitrate uptake → due to decreased nitrate uptake capacity accumulation of amino acids in roots → inhibiting N uptake reduction of fine root biomass → decreased nutrient absorbing surface
+                      competition plant–plant/microbial N uptake       compensation of reduced N availability by access from deeper soil layers
+                                                                                                     reduction of microbial competition in favour of plants
