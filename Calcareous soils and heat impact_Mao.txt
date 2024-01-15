@@ -9,7 +9,7 @@ Calcareous soils (compared to other soils) :
    Related conclusion: Beech in calcareous has higher root mortality than in other soil types, and organic nitrogen uptake decreases more due to drought in calcareous soils than in acid soils
     (#My bad, didn't see that Tim read the same article as well :))
 
-2. Microbial nitrogen turnover in soils under different types of natural forest
+2. Literature: Microbial nitrogen turnover in soils under different types of natural forest
     https://doi.org/10.1016/j.foreco.2003.07.014
     Related conclusion:  N cycling was tight in acid beech forests where microbial activity was limited by low soil pH. Indigenous pine forests on calcareous bedrock showed high microbial N storage（#not strict beech in calcareous soils bu may help）.
                                       Variability in N2O production was strongly related to the soil moisture content (#related to the drought)
