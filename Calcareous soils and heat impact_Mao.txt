@@ -6,7 +6,7 @@ Calcareous soils (compared to other soils) :
     https://doi.org/10.1007/s11104-016-2956-4
     Methods: Determine Tree biomass, root tip mycorrhizal colonization and community structure, root tip mortality, leaf area, photosynthesis, nitrogen concentrations, NUE and short-term 15N uptake from glutamine in five different soil types
     
-   Related conclusion: Beech in calcareous has higher root mortality than in other soil types, and organic nitrogen uptake decreases more due to drought in calcareous soils than in acid soils
+    Related conclusion: Beech in calcareous has higher root mortality than in other soil types, and organic nitrogen uptake decreases more due to drought in calcareous soils than in acid soils
     (#My bad, didn't see that Tim read the same article as well :))
 
 2. Literature: Microbial nitrogen turnover in soils under different types of natural forest
