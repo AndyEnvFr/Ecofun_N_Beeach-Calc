@@ -25,10 +25,10 @@ Impact of heat/climate/drought
     https://doi.org/10.1111/j.1438-8677.2009.00241.x
     Related conclusion: 
     Heat          microbial release/consumption of N      increased N mineralization → increased inorganic N availability net nitrification decreased
-                      N uptake                                                 increase in transporter activity in plants, increase in nitrate uptake in relative proportion to ammonium
-    Drought    microbial release/consumption of N      decreased soil microbial activity
-                                                                                      increased DON availability due to dieback of microbial biomass → increased N available for plant uptake
-                                                                                      inhibition of gross nitrification (to be inhibited at very low soil moisture levels, to increase with soil moisture to an optimum, and then to decline as the soil becomes saturated)
-                      N uptake                                                 decreased nitrate uptake → due to decreased nitrate uptake capacity accumulation of amino acids in roots → inhibiting N uptake reduction of fine root biomass → decreased nutrient absorbing surface
-                      competition plant–plant/microbial N uptake       compensation of reduced N availability by access from deeper soil layers
-                                                                                                     reduction of microbial competition in favour of plants
+                  N uptake                                increase in transporter activity in plants, increase in nitrate uptake in relative proportion to ammonium
+    Drought       microbial release/consumption of N      decreased soil microbial activity
+                                                          increased DON availability due to dieback of microbial biomass → increased N available for plant uptake
+                                                          inhibition of gross nitrification (to be inhibited at very low soil moisture levels, to increase with soil moisture to an optimum, and then to decline as the soil becomes saturated)
+                  N uptake                                decreased nitrate uptake → due to decreased nitrate uptake capacity accumulation of amino acids in roots → inhibiting N uptake reduction of fine root biomass → decreased nutrient absorbing surface
+                  competition plant–plant/microbial N uptake       compensation of reduced N availability by access from deeper soil layers
+                                                                   reduction of microbial competition in favour of plants
